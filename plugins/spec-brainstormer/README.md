@@ -11,7 +11,7 @@ Designed for teams who want to think clearly before they build.
 **Step 1: Add the marketplace**
 
 ```
-/plugin marketplace add <org>/spec-brainstormer
+/plugin marketplace add joel-meesho/claude-plugins
 ```
 
 **Step 2: Install the plugin**
