@@ -1,8 +1,8 @@
 {
-  "name": "Joel-Meesho-Claude-Plugins",
+  "name": "JF-Meesho-Claude-Plugins",
   "description": "Directory of Claude Code extensions",
   "owner": {
-    "name": "Joel-Meesho"
+    "name": "JF-Meesho"
   },
   "plugins": [
     {
