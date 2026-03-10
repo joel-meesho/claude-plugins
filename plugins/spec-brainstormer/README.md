@@ -22,11 +22,7 @@ Designed for teams who want to think clearly before they build.
 
 **Step 3: Invoke the agent**
 
-```
-/brainstormer
-```
-
-Or just describe what you're working on and Claude will activate the agent automatically.
+Start by giving a high-level problems statment of 1-2 lines in the CLI or Chat Window. Just describe what you're working on and Claude will activate the agent automatically.
 
 **To update after new versions are released:**
 
@@ -38,9 +34,6 @@ Or just describe what you're working on and Claude will activate the agent autom
 
 ## How to Invoke
 
-The brainstormer agent activates in two ways:
-
-- **Explicit:** Type `/brainstormer` followed by a brief description of your project or idea
 - **Automatic:** Mention brainstorming, a new project, feature design, system architecture, or "I have an idea for..." and the agent will engage
 
 ---
