@@ -1,0 +1,15 @@
+{
+  "name": "Meesho-Claude-Plugins",
+  "description": "Directory of Claude Code extensions",
+  "owner": {
+    "name": "Meesho"
+  },
+  "plugins": [
+    {
+      "name": "spec-brainstormer",
+      "description": "A brainstorming agent that guides developers through structured requirements discovery and produces technical specs and execution plans. Use when starting a new project, feature, or system design. Does not generate code.",
+      "source": "./plugins/spec-brainstormer",
+      "category": "development"
+    }
+  ]
+}
